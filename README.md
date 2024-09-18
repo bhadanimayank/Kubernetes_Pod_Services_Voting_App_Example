@@ -1,5 +1,5 @@
 # Kubernetes_Services_Example
-Kubernetes Full Stack App with single pod of each application
+Kubernetes Full Stack App with single pod of each layer of App
 
 
 Run "Voting_App_Deploy.cmd" Script to Deploy the Voting Application
